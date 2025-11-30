@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White T-Shirt",
+    "price": 19.99,
+    "salePrice": 14.99,
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=3b2b5d7f9098e3c8d4c5c6f2c0a9c4f3",
+    "description": "Soft, breathable and classic. Perfect for everyday wear."
+  },
+  {
+    "id": "2",
+    "name": "Running Sneakers",
+    "price": 79.99,
+    "salePrice": 69.99,
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=3f2f5b4f0b2a0d5a7b9f7b6c9a1b2c3d",
+    "description": "Lightweight running sneakers with responsive cushioning for daily runs."
+  },
+  {
+    "id": "3",
+    "name": "Vintage Leather Wallet",
+    "price": 39.99,
+    "category": "Accessories",
+    "image": "https://imgs.search.brave.com/9bkH9bUPBrmCVC1L9tZlHHR9Y-iQhgWgNvBagLy5s9o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kdXZh/bGxsZWF0aGVyd29y/ay5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDIvSU1H/XzA4MDQtNTAweDUw/MC5qcGc",
+    "description": "Handcrafted leather wallet with multiple card slots and coin pocket."
+  },
+  {
+    "id": "4",
+    "name": "Noise Cancelling Headphones",
+    "price": 199.99,
+    "salePrice": 149.99,
+    "category": "Electronics",
+    "image": "https://imgs.search.brave.com/-szvJgG93TmQtrplBX1ugoOUH7-63L4j9x3e3DOEokA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/ODUyOTg3MjM2ODIt/NzExNTU2MWM1MWI3/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjEuMCZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE1UQjhmR2hs/WVdSd2FHOXVaWE44/Wlc1OE1IeDhNSHg4/ZkRBPQ",
+    "description": "Premium sound quality with active noise cancellation and long battery life."
+  },
+  {
+    "id": "5",
+    "name": "Ceramic Coffee Mug",
+    "price": 12.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d",
+    "description": "Thick ceramic mug that holds 350ml of your favorite hot beverage."
+  },
+  {
+    "id": "6",
+    "name": "Yoga Mat",
+    "price": 29,
+    "category": "Fitness",
+    "image": "https://imgs.search.brave.com/lrmF6rGTzhTEEsmVmKvsiWWyGBSeAX7jgE1ORK4dXUk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVyeXdlbGxmaXQu/Y29tL3RobWIvV0E0/LV90TTVvbGZIWHFF/ZXRHUnpjalROT0dF/PS9maXQtaW4vMTUw/MHgyNjY3L2ZpbHRl/cnM6bm9fdXBzY2Fs/ZSgpOm1heF9ieXRl/cygxNTAwMDApOnN0/cmlwX2ljYygpL3Z3/dC1kZXRhaWwtZ2Fp/YW0tY2xhc3NpYy1z/b2xpZC15b2dhLW1h/dC1qa2ltLTAyMjUt/YmYxOWRmZGFjYjQ0/NGI3YzgyNzVlZTQz/OTMxZTE4ODUuanBl/Zw",
+    "description": "Non-slip eco-friendly yoga mat for all levels of practice."
+  }
+]

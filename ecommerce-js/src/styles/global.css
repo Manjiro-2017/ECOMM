@@ -1,0 +1,5 @@
+/* Basic reset and utilities */
+html,body,#root{height:100%}
+body{background:#f7fafc}
+input,textarea,button{font-family:inherit}
+a{color:inherit}
