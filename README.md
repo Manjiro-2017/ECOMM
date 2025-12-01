@@ -54,7 +54,7 @@ It is built with a clean UI, reusable components, and modern React architecture.
 
 ⸻
 
-#🖼️ Screenshots 
+🖼️ Screenshots 
 
 You can add:
 	•	Home Page
